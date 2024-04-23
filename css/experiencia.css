@@ -65,6 +65,10 @@
   font-weight: bold;
 }
 
+.empresa__titulo a {
+  color: #9FF020 
+}
+
 .empresa__texto {
   font-size: 0.875rem;
   color: #525252;
